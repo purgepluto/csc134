@@ -18,6 +18,7 @@ int main()
 string customer_name;
 int cups_to_buy; 
 
+
 // Say hi 
 cout << " Hi, what's you name? ";
 cin >> customer_name;
