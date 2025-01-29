@@ -16,5 +16,8 @@ int main()
     double price_each = 0.30;          // aany number with a decimal is a double 
 
 // Say hi
-cout <<"Welcome to the " << name << " lemonade stand." <<endl
+cout <<"Welcome to the " << name << " lemonade stand." <<endl;
+cout << "we have " << num_CupsOfLemonade << " CupsOfLemonade in stock." << endl;
+cout << "Price per CupOfLemonade is: $" << price_each << endl;
+cout << endl;
 }
